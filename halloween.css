@@ -1,0 +1,92 @@
+@charset "UTF-8";
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .header-2V-4Sw {
+  height: 150px;
+  padding: 16px;
+  align-items: flex-start;
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .header-2V-4Sw::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  background: url("https://i.imgur.com/5PUPyAe.png") center/cover no-repeat;
+  -webkit-mask: linear-gradient(#000000, transparent);
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(3) .icon-1DeIlz, .container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(3) .container-2ax-kl {
+  color: black;
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(4) .icon-1DeIlz, .container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(4) .container-2ax-kl {
+  color: black;
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(5) .icon-1DeIlz, .container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(5) .container-2ax-kl {
+  color: #eb8b47;
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(6) .icon-1DeIlz, .container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(6) .container-2ax-kl {
+  color: #322923;
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(7) .icon-1DeIlz, .container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(7) .container-2ax-kl {
+  color: #e0dad5;
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(8) .icon-1DeIlz, .container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(8) .container-2ax-kl {
+  color: #e3dedb;
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(9) .icon-1DeIlz, .container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(9) .container-2ax-kl {
+  color: #e35e00;
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(10) .icon-1DeIlz, .container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(10) .container-2ax-kl {
+  color: #d97126;
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(11) .icon-1DeIlz, .container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(11) .container-2ax-kl {
+  color: #e1cec0;
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(12) .icon-1DeIlz, .container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(12) .container-2ax-kl {
+  color: #4a250b;
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(13) .icon-1DeIlz, .container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(13) .container-2ax-kl {
+  color: #f3d3bd;
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(14) .icon-1DeIlz, .container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(14) .container-2ax-kl {
+  color: #8d3e05;
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(15) .icon-1DeIlz, .container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(15) .container-2ax-kl {
+  color: #c66a28;
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(16) .icon-1DeIlz, .container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(16) .container-2ax-kl {
+  color: #3a1c06;
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(17) .icon-1DeIlz, .container-3w7J-x[aria-label^="🎃 Spooky camp"] .content-3YMskv > :nth-child(17) .container-2ax-kl {
+  color: #b0a39a;
+}
+.container-3w7J-x[aria-label^="🎃 Spooky camp"] + .panels-j1Uci_ > .container-3baos1 .button-14-BFJ {
+  color: #f324ff !important;
+}
+
+.headerButton-3in1-b[aria-label^="🎃 Spooky camp"]::before {
+  content: "";
+  position: fixed;
+  left: -20px;
+  bottom: 0;
+  width: 130px;
+  height: 150px;
+  background: url("https://i.imgur.com/Onsi6Ft.png") center/100% no-repeat;
+  pointer-events: none;
+  opacity: 0.8;
+  transform: scaleX(-1) scaleY(-1);
+}
+.headerButton-3in1-b[aria-label^="🎃 Spooky camp"]::after {
+  content: "";
+  position: fixed;
+  right: 10px;
+  bottom: 0;
+  width: 50px;
+  height: 50px;
+  background: url("https://i.imgur.com/eNgL05o.png") center/100% no-repeat;
+  pointer-events: none;
+}
+
+.blobContainer-pmnxKB[data-dnd-name="🎃 Spooky camp"]:hover .icon-27yU2q[src^="https://cdn.discordapp.com/icons/811203761619337259/cbbe557dad5f5f43e5dea3f9e7a75e14"] {
+  content: url("https://i.imgur.com/HKhLifk.gif");
+}
