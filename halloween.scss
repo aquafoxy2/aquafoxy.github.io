@@ -1,6 +1,6 @@
 @use "sass:math";
 
-.container-3w7J-x[aria-label^="🎃 Spooky camp"] {
+.container-3w7J-x[aria-label^="Axolotl Café"] {
     
     .header-2V-4Sw {
         height: 150px; padding: 16px;
@@ -29,7 +29,7 @@
 }
 
 
-.headerButton-3in1-b[aria-label^="🎃 Spooky camp"] {
+.headerButton-3in1-b[aria-label^="Axolotl Café"] {
     &::before {
         content: ''; position: fixed;
         left: -20px; bottom: 0;
@@ -48,6 +48,6 @@
     }
 }
 
-.blobContainer-pmnxKB[data-dnd-name="🎃 Spooky camp"]:hover .icon-27yU2q[src^="https://cdn.discordapp.com/icons/811203761619337259/cbbe557dad5f5f43e5dea3f9e7a75e14"] { 
+.blobContainer-pmnxKB[data-dnd-name="Axolotl Café"]:hover .icon-27yU2q[src^="https://cdn.discordapp.com/icons/811203761619337259/cbbe557dad5f5f43e5dea3f9e7a75e14"] { 
     content: url('https://i.imgur.com/HKhLifk.gif');
 }
